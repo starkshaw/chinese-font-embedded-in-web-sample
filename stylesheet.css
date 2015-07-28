@@ -41,6 +41,7 @@
     src: url('./fonts/KaiGenGothicCN-ExtraLight.ttf');
 }
 
+/* Styles */
 .heavy {
     font-family: KaiGenGothic;
     font-weight: 900;
@@ -66,7 +67,7 @@
 }
 
 .normal {
-font-family: KaiGenGothic;
+    font-family: KaiGenGothic;
     font-weight: 300;
     font-size: 24px;
 }
