@@ -82,3 +82,23 @@ font-family: KaiGenGothic;
     font-weight: 100;
     font-size: 24px;
 }
+
+#info {
+    font-family: 'Helvetica Neue', Helvetica, KaiGenGothic, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.indicator {
+    font-family: 'Helvetica Neue', Helvetica, KaiGenGothic, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.sample {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
