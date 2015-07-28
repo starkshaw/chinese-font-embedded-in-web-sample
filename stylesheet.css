@@ -1,0 +1,84 @@
+/* Embedding fonts */
+@font-face {
+    font-family: "KaiGenGothic";
+    font-weight: 900;
+    src: url('./fonts/KaiGenGothicCN-Heavy.ttf');
+}
+
+@font-face {
+    font-family: "KaiGenGothic";
+    font-weight: 700;
+    src: url('./fonts/KaiGenGothicCN-Bold.ttf');
+}
+
+@font-face {
+    font-family: "KaiGenGothic";
+    font-weight: 500;
+    src: url('./fonts/KaiGenGothicCN-Medium.ttf');
+}
+
+@font-face {
+    font-family: "KaiGenGothic";
+    font-weight: 400;
+    src: url('./fonts/KaiGenGothicCN-Regular.ttf');
+}
+
+@font-face {
+    font-family: "KaiGenGothic";
+    font-weight: 300;
+    src: url('./fonts/KaiGenGothicCN-Normal.ttf');
+}
+
+@font-face {
+    font-family: "KaiGenGothic";
+    font-weight: 200;
+    src: url('./fonts/KaiGenGothicCN-Light.ttf');
+}    
+
+@font-face {
+    font-family: "KaiGenGothic";
+    font-weight: 100;
+    src: url('./fonts/KaiGenGothicCN-ExtraLight.ttf');
+}
+
+.heavy {
+    font-family: KaiGenGothic;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.bold {
+    font-family: KaiGenGothic;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.medium {
+    font-family: KaiGenGothic;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.regular {
+    font-family: KaiGenGothic;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.normal {
+font-family: KaiGenGothic;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.light {
+    font-family: KaiGenGothic;
+    font-weight: 200;
+    font-size: 24px;
+}
+
+.extralight {
+    font-family: KaiGenGothic;
+    font-weight: 100;
+    font-size: 24px;
+}
